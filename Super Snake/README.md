@@ -1,1 +1,1 @@
-[click hear  to see screen shot of the game](Super Snake/images/Screenshot.jpg)
+[click hear  to see screen shot of the game](images/Screenshot.jpg)
